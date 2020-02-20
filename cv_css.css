@@ -1,0 +1,55 @@
+.Nom{
+color: red
+
+}
+
+.page{
+	width :800px;
+	margin : auto;
+	font-size : 16px;
+	font-family : 'Source sans Pro', Calibri ,Tahama, sans-serif:
+
+}
+
+.contact{
+	float: top;
+	text-align : justify;
+}	
+.photo{
+	float: right;
+	width :380px;
+	margin : -10px;
+	font-size : 80px;
+}
+
+.Exp{
+	text-align : justify;
+	color: blue;
+
+}
+
+.h3{
+	color: blue
+}
+.competences informatiques {	
+	float: left;
+	width :250px;
+	margin : 5px;
+	font-size : 15px;
+	text-align : justify;
+}
+.formations{
+	text-align : justify;
+	color: blue;
+	
+}
+
+body { 
+	background: #CCCFFF; 
+	color: black;
+/* commentaire */  margin-left: 20%; 
+margin-right: 5%;
+font-family: Tahoma, Optima,  Arial, sans-serif;
+}
+	
+
